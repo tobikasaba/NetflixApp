@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block content %}
+<dl>
+    <dt>Genre</dt>
+    <dd>{{ netflix_genres.genre }}</dd>
+    <dt>Sub Genre</dt>
+    <dd>{{netflix_genres.sub_genre }}</dd>
+    <dt>Link</dt>
+    <dd>{{ netflix_genres.link }}</dd>
+</dl>
+{% endblock %}
