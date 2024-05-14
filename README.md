@@ -1,0 +1,1 @@
+This is a web application which contains the links to all the genres available on Netflix
