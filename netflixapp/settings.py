@@ -26,8 +26,10 @@ SECRET_KEY = 'dz0)v@d!f%x)tw3f1de=n8pyl$oln0t&%)cf&)x8mn5!83^_4('
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "netflixgenres.herokuapp.com",
-    "127.0.0.1"
+    # "netflixgenres.herokuapp.com",
+    # "127.0.0.1",
+    'serene-springs-12082-c2fd23ccfd46.herokuapp.com'
+
 ]
 
 
